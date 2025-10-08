@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\bin\Debug\net8.0\Problema_diamante.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\bin\Debug\net8.0\Problema_diamante.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\bin\Debug\net8.0\Problema_diamante.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\bin\Debug\net8.0\Problema_diamante.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\bin\Debug\net8.0\Problema_diamante.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\Problema_diamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\Problema_diamante.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\Problema_diamante.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\Problema_diamante.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\Problema_diamante.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\refint\Problema_diamante.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\Problema_diamante.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\Problema_diamante.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Problema_diamante\obj\Debug\net8.0\ref\Problema_diamante.dll
