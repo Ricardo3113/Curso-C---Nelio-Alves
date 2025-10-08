@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "heranca-polimorfismo-exemplo-account/1.0.0": {
+        "runtime": {
+          "heranca-polimorfismo-exemplo-account.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "heranca-polimorfismo-exemplo-account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
