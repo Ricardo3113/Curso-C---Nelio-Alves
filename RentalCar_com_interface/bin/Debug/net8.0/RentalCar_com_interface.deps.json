@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RentalCar_com_interface/1.0.0": {
+        "runtime": {
+          "RentalCar_com_interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RentalCar_com_interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

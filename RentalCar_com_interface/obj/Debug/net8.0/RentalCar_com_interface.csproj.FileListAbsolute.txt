@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\bin\Debug\net8.0\RentalCar_com_interface.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\bin\Debug\net8.0\RentalCar_com_interface.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\bin\Debug\net8.0\RentalCar_com_interface.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\bin\Debug\net8.0\RentalCar_com_interface.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\bin\Debug\net8.0\RentalCar_com_interface.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\RentalCar_com_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\RentalCar_com_interface.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\RentalCar_com_interface.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\RentalCar_com_interface.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\RentalCar_com_interface.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\refint\RentalCar_com_interface.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\RentalCar_com_interface.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\RentalCar_com_interface.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\RentalCar_com_interface\obj\Debug\net8.0\ref\RentalCar_com_interface.dll
