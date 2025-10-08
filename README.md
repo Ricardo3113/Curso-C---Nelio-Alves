@@ -1,1 +1,1 @@
-Two exercises showing different ways of using LINQ with lambda expressions.
+Exercicios e projetos do curso de Programação Orientada a Objetos em C# do Professor Nélio Alves.
