@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\bin\Debug\net8.0\LinqExemplo01.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\bin\Debug\net8.0\LinqExemplo01.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\bin\Debug\net8.0\LinqExemplo01.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\bin\Debug\net8.0\LinqExemplo01.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\bin\Debug\net8.0\LinqExemplo01.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\LinqExemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\LinqExemplo01.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\LinqExemplo01.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\LinqExemplo01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\LinqExemplo01.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\refint\LinqExemplo01.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\LinqExemplo01.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\LinqExemplo01.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemplo01\obj\Debug\net8.0\ref\LinqExemplo01.dll

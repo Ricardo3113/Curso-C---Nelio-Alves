@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\bin\Debug\net8.0\LinqExemploProductCategory.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\bin\Debug\net8.0\LinqExemploProductCategory.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\bin\Debug\net8.0\LinqExemploProductCategory.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\bin\Debug\net8.0\LinqExemploProductCategory.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\bin\Debug\net8.0\LinqExemploProductCategory.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\LinqExemploProductCategory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\LinqExemploProductCategory.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\LinqExemploProductCategory.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\LinqExemploProductCategory.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\LinqExemploProductCategory.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\refint\LinqExemploProductCategory.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\LinqExemploProductCategory.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\LinqExemploProductCategory.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExemploProductCategory\obj\Debug\net8.0\ref\LinqExemploProductCategory.dll
