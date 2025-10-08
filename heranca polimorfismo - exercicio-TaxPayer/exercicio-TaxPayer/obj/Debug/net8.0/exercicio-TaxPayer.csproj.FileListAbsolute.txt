@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\bin\Debug\net8.0\exercicio-TaxPayer.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\bin\Debug\net8.0\exercicio-TaxPayer.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\bin\Debug\net8.0\exercicio-TaxPayer.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\bin\Debug\net8.0\exercicio-TaxPayer.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\bin\Debug\net8.0\exercicio-TaxPayer.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\exercicio-TaxPayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\exercicio-TaxPayer.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\exercicio-TaxPayer.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\exercicio-TaxPayer.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\exercicio-TaxPayer.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\refint\exercicio-TaxPayer.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\exercicio-TaxPayer.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\exercicio-TaxPayer.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-TaxPayer\exercicio-TaxPayer\obj\Debug\net8.0\ref\exercicio-TaxPayer.dll
