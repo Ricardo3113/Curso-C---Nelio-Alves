@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\bin\Debug\net8.0\LinqConsultaComSql.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\bin\Debug\net8.0\LinqConsultaComSql.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\bin\Debug\net8.0\LinqConsultaComSql.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\bin\Debug\net8.0\LinqConsultaComSql.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\bin\Debug\net8.0\LinqConsultaComSql.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\LinqConsultaComSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\LinqConsultaComSql.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\LinqConsultaComSql.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\LinqConsultaComSql.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\LinqConsultaComSql.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\refint\LinqConsultaComSql.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\LinqConsultaComSql.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\LinqConsultaComSql.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqConsultaComSql\obj\Debug\net8.0\ref\LinqConsultaComSql.dll
