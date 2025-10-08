@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\bin\Debug\net8.0\ExercicioPropostoAccount.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\bin\Debug\net8.0\ExercicioPropostoAccount.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\bin\Debug\net8.0\ExercicioPropostoAccount.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\bin\Debug\net8.0\ExercicioPropostoAccount.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\bin\Debug\net8.0\ExercicioPropostoAccount.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\ExercicioPropostoAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\ExercicioPropostoAccount.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\ExercicioPropostoAccount.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\ExercicioPropostoAccount.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\ExercicioPropostoAccount.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\refint\ExercicioPropostoAccount.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\ExercicioPropostoAccount.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\ExercicioPropostoAccount.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\ExercicioAccount\ExercicioPropostoAccount\obj\Debug\net8.0\ref\ExercicioPropostoAccount.dll
