@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\bin\Debug\net8.0\Exercicio_fixacao_paypal.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\bin\Debug\net8.0\Exercicio_fixacao_paypal.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\bin\Debug\net8.0\Exercicio_fixacao_paypal.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\bin\Debug\net8.0\Exercicio_fixacao_paypal.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\bin\Debug\net8.0\Exercicio_fixacao_paypal.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\Exercicio_fixacao_paypal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\Exercicio_fixacao_paypal.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\Exercicio_fixacao_paypal.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\Exercicio_fixacao_paypal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\Exercicio_fixacao_paypal.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\refint\Exercicio_fixacao_paypal.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\Exercicio_fixacao_paypal.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\Exercicio_fixacao_paypal.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 12 - interfaces\Exercicio_fixacao_paypal\obj\Debug\net8.0\ref\Exercicio_fixacao_paypal.dll

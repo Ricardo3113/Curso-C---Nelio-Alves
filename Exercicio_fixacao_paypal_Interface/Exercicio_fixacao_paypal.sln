@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_fixacao_paypal", "Exercicio_fixacao_paypal.csproj", "{8A03FDFC-FDB9-4048-8F3F-BDC65CF1393F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A03FDFC-FDB9-4048-8F3F-BDC65CF1393F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A03FDFC-FDB9-4048-8F3F-BDC65CF1393F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A03FDFC-FDB9-4048-8F3F-BDC65CF1393F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A03FDFC-FDB9-4048-8F3F-BDC65CF1393F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE754E6-8C77-42C3-B192-2347D07413A8}
+	EndGlobalSection
+EndGlobal
