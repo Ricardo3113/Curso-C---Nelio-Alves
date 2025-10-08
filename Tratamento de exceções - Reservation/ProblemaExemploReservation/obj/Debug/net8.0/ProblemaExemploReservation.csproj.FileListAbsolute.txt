@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\bin\Debug\net8.0\ProblemaExemploReservation.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\bin\Debug\net8.0\ProblemaExemploReservation.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\bin\Debug\net8.0\ProblemaExemploReservation.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\bin\Debug\net8.0\ProblemaExemploReservation.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\bin\Debug\net8.0\ProblemaExemploReservation.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\ProblemaExemploReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\ProblemaExemploReservation.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\ProblemaExemploReservation.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\ProblemaExemploReservation.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\ProblemaExemploReservation.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\refint\ProblemaExemploReservation.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\ProblemaExemploReservation.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\ProblemaExemploReservation.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 10 - tratamento de excecoes\Reservation\ProblemaExemploReservation\obj\Debug\net8.0\ref\ProblemaExemploReservation.dll
