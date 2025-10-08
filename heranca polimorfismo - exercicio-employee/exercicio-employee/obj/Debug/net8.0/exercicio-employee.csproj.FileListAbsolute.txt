@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\bin\Debug\net8.0\exercicio-employee.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\bin\Debug\net8.0\exercicio-employee.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\bin\Debug\net8.0\exercicio-employee.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\bin\Debug\net8.0\exercicio-employee.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\bin\Debug\net8.0\exercicio-employee.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\exercicio-employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\exercicio-employee.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\exercicio-employee.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\exercicio-employee.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\exercicio-employee.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\refint\exercicio-employee.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\exercicio-employee.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\exercicio-employee.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-employee\exercicio-employee\obj\Debug\net8.0\ref\exercicio-employee.dll

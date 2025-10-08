@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\bin\Debug\net8.0\product.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\bin\Debug\net8.0\product.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\bin\Debug\net8.0\product.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\bin\Debug\net8.0\product.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\bin\Debug\net8.0\product.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\product.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\product.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\product.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\product.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\refint\product.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\product.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\product.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 9 - heranca polimorfismo\exercicio-product\product\obj\Debug\net8.0\ref\product.dll
