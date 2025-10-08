@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exercicio_fixacao_pensao/1.0.0": {
+        "runtime": {
+          "exercicio_fixacao_pensao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio_fixacao_pensao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
