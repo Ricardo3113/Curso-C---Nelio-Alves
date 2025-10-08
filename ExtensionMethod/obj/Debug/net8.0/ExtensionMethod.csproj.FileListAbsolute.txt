@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 14 - topicos especiais II - extension methods\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll
