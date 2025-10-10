@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\bin\Debug\net8.0\LinqExercicioProposto.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\bin\Debug\net8.0\LinqExercicioProposto.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\bin\Debug\net8.0\LinqExercicioProposto.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\bin\Debug\net8.0\LinqExercicioProposto.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\bin\Debug\net8.0\LinqExercicioProposto.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\LinqExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\LinqExercicioProposto.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\LinqExercicioProposto.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\LinqExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\LinqExercicioProposto.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\refint\LinqExercicioProposto.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\LinqExercicioProposto.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\LinqExercicioProposto.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 15 - Expressões Lambda, Delegates, Linq\LinqExercicioProposto\obj\Debug\net8.0\ref\LinqExercicioProposto.dll
