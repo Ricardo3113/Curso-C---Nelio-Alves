@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\bin\Debug\net8.0\Generics_exemplo02.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\bin\Debug\net8.0\Generics_exemplo02.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\bin\Debug\net8.0\Generics_exemplo02.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\bin\Debug\net8.0\Generics_exemplo02.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\bin\Debug\net8.0\Generics_exemplo02.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\Generics_exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\Generics_exemplo02.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\Generics_exemplo02.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\Generics_exemplo02.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\Generics_exemplo02.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\refint\Generics_exemplo02.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\Generics_exemplo02.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\Generics_exemplo02.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C# OOP Nelio Alves\capitulo 13 - Generics, Set, Dictionary\Generics_exemplo02\obj\Debug\net8.0\ref\Generics_exemplo02.dll
